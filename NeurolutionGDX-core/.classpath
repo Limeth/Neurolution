@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="output" path="bin"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
-	<classpathentry sourcepath="C:/Users/Limeth/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.1.0/abdb14d6d21978e13055b14f834108e4c8dd8cba/gdx-1.1.0-sources.jar" kind="lib" path="C:/Users/Limeth/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.1.0/686f5a609c717eb0769d3b954c501a49bf4fe351/gdx-1.1.0.jar" exported="true"/>
-	<classpathentry sourcepath="C:/Users/Limeth/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.1.0/4a031279bbde63fafdcc6b487c4c85aa4dd1207b/gdx-box2d-1.1.0-sources.jar" kind="lib" path="C:/Users/Limeth/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.1.0/919bff3c5e92062ee3413f86076c089bd810b5b3/gdx-box2d-1.1.0.jar" exported="true"/>
-	<classpathentry sourcepath="C:/Users/Limeth/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.2/50b3097b9588b328c53bc2e21fd115e89fc06265/box2dlights-1.2-sources.jar" kind="lib" path="C:/Users/Limeth/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.2/8b3baf8bd6d5fdf7052d9798977133f46a9e7a05/box2dlights-1.2.jar" exported="true"/>
-	<classpathentry sourcepath="C:/Users/Limeth/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.1.0/fbc8d1db8f326daeec3fb0cf6ad741b7e9398b4b/gdx-controllers-1.1.0-sources.jar" kind="lib" path="C:/Users/Limeth/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.1.0/db7a1684b3c5eef9c0809ff1922021c4b5c0a30f/gdx-controllers-1.1.0.jar" exported="true"/>
+	<classpathentry kind="src" path="box2dLight"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/gdx"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/gdx-box2d"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/gdx-controllers"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>

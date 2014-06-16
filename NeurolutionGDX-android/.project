@@ -30,4 +30,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>box2dLight</name>
+			<type>2</type>
+			<location>/home/limeth/git/box2dlights/src</location>
+		</link>
+	</linkedResources>
 </projectDescription>
